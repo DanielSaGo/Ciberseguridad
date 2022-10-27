@@ -3,4 +3,4 @@
 
 [Puesta en producción segura](https://danielsago.github.io/PPS)
 
-[Puesta en producción segura](https://danielsago.github.io/HE/)
+[Hacking Ético](https://danielsago.github.io/HE/)
